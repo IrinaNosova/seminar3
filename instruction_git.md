@@ -93,3 +93,8 @@ git log --oneline --all
     git checkout <branch_name>
 
 ### Удаление ветки
+
+Для удаления ветки необходимо ввести команду:
+
+     git branch -d <branch_name>
+     
